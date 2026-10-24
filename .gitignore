@@ -1,0 +1,7 @@
+data/
+results/
+manuscript/
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
